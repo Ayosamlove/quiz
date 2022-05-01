@@ -25,6 +25,6 @@ const timer = setInterval(()=>{
     } else{
         output++
     }
-}, 20);
+}, 10);
    
 });
